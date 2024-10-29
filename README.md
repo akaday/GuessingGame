@@ -22,3 +22,35 @@
    ```bash
    git clone https://github.com/akaday/GuessingGame.git
    cd GuessingGame
+Build the Project:
+
+bash
+Copier
+dotnet build
+Run the Application:
+
+bash
+Copier
+dotnet run
+Contributing
+Fork the Repository.
+
+Create a Branch (git checkout -b feature-branch).
+
+Commit Your Changes (git commit -am 'Add new feature').
+
+Push to the Branch (git push origin feature-branch).
+
+Create a Pull Request.
+
+License
+This project is licensed under the MIT License.
+
+Enjoy playing the GuessingGame and feel free to contribute to make it even more exciting! 🚀✨
+
+
+Copier
+
+Feel free to customize this `README.md` further based on any additional features or details you'd like to include. 
+
+If you have any other ideas or need further assistance, just let me know! 😊📘✨
